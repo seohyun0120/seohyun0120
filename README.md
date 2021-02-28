@@ -1,7 +1,8 @@
 ## Hi, I'm Seohyun
 
-- Currently working at ncsoft, Software Engineer
+- Software Engineer at @NCSOFT (2020.01~)
 - Web Development with TypeScript(Node.js, React, RxJS)
+- Test Automation with Python
 - AWS Cloud, Docker
 - [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/16fc3c0d-8904-4a68-88e6-3b57e50a7cf9/public_url)
 
