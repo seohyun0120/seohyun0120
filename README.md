@@ -1,9 +1,9 @@
 ## Hi, I'm Seohyun
 
-- 👩🏻‍💻 Software Engineer at @NCSOFT (Jan 2020 ~)
+- 👩🏻‍💻 Server Engineer at Electronic Arts (Aug 2024 ~ )
+- 👩🏻‍💻 Software Engineer at NCSOFT (Jan 2020 ~ Aug 2024)
 - 🚀 Backend
 - 💙 TypeScript, Python
-- ☁️ [AWS Certified Solutions Architect - Associate](https://www.youracclaim.com/badges/16fc3c0d-8904-4a68-88e6-3b57e50a7cf9/public_url)
 - ✉️ sarahseohyun@gmail.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohyun0120%2Fhit-counter)](https://hits.seeyoufarm.com)
